@@ -46,7 +46,7 @@ import android.telephony.SubscriptionManager;
 import android.telephony.TelephonyManager;
 import android.util.Log;
 
-import com.android.internal.util.lunaris.Utils;
+import com.android.internal.util.mist.Utils;
 
 import lineageos.hardware.LineageHardwareManager;
 import lineageos.providers.LineageSettings;
